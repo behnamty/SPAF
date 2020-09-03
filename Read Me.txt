@@ -1,0 +1,11 @@
+Copyright (c) 2020, Behnam Tayebi
+All rights reserved.
+
+
+1- Use SPAFUnwrap function for unwrapping your phase.
+
+2- Run exampleScript to see some numerical and experimental examples of SPAF.
+
+
+
+Note- cunwrap is an example of MNF method that was written by Bruno Luong 2009.
